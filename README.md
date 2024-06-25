@@ -3,22 +3,11 @@
 **`Digital Craftman (Front End developer)`**
 
 ## :technologist: About me
-I'm a Software Engineer, where I mostly worked on projects based on the React framework and NodeJs projects.
-I started my journey 3 years ago by attending a training course where I had the opportunity to deepen my knowledge of:
-- OOP 
-- design patterns
-- HTML / CSS 3
-- TailwindCss
-- Javascript / Typescript
-- React JS 
-- Node JS / Express
-- Java 17 
-- Spring Boot 
-- Relational Databases
+I'm a Software Engineer with 3 years of experience, specializing in React and Node.js. I have a solid foundation in OOP, design patterns, HTML/CSS, Tailwind CSS, JavaScript/TypeScript, React JS, Node JS/Express, Java, Spring Boot, and relational databases.
 
-After which I had an experience at an IT company where I worked in a team in which I collaborated on the development and putting into production of an internal application built on React framework and bug fixing of the old application which was based on HTML, CSS and Vanilla Javascript.
-In addition to technical skills, I have developed excellent problem solving and team working skills and on my own I have studied various technologies regarding frontend development by myself like styled compoments, State managements systems and SSR development with NextJs.
-I also had the opportunity to have experience in a company in Ireland where I was able to participate in an international team and collaborated on the development of a marketplace app for a partner company and it was mainly on React technology.
+I've worked on various projects, including developing and deploying applications and handling bug fixes. My experience also includes working in international teams, contributing to diverse projects primarily using React technology.
+
+I possess strong problem-solving and teamwork skills and have self-studied additional frontend technologies like Styled Components, state management systems, and SSR development with Next.js.
 
 Here are some ideas to get you started:
 
