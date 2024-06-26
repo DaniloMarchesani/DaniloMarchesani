@@ -2,7 +2,7 @@
 
 **`Digital Craftman (Front End developer)`**
 
-##
+<h2>Frontend engineer aspire to evolve into is final form of Node Full Stack developer ✨</h2>
 
 ---
 
@@ -28,8 +28,6 @@ I possess strong problem-solving and teamwork skills and have self-studied addit
 <img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
-
----
 
 ###
 
