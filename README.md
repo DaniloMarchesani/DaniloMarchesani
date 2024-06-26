@@ -9,6 +9,10 @@ I've worked on various projects, including developing and deploying applications
 
 I possess strong problem-solving and teamwork skills and have self-studied additional frontend technologies like Styled Components, state management systems, and SSR development with Next.js.
 
+## 🛠 Tech Stack and Tools
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
