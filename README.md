@@ -1,7 +1,7 @@
 **`Digital Craftman (Software engineer)`**
 # 🏄‍♂️ Danilo Marchesani
 
-
+![img-1](https://github.com/DaniloMarchesani/DaniloMarchesani/assets/52390403/9857bdc8-35f2-4c36-9e8d-111a1f6e7394)
 
 <h2>Frontend engineer aspire to evolve into is final form of Node Full Stack developer ✨</h2>
 
