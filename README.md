@@ -31,6 +31,8 @@ I possess strong problem-solving and teamwork skills and have self-studied addit
 
 ###
 
+<br />
+
  🔭 I’m currently working on ...ask me about it 😉 <br />
  🌱 I’m currently learning NextJs <br />
  👯 I’m looking to collaborate on various projects based on Js frameworks and Nodejs <br />
