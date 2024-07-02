@@ -1,7 +1,8 @@
 **`Digital Craftman (Software engineer)`**
 # 🏄‍♂️ Danilo Marchesani
 
-<h3 style="font-style: italic">Coding Maestro, Bug Squasher, and React & Node Enthusiast ✨</h3>
+<h3 style="font-style: italic">Javascript/Typescript Software Engineer ✨</h3>
+<h4>Loving nature 🌱 but fighting with bugs 🪲</h4>
 
 ![img-1](https://github.com/DaniloMarchesani/DaniloMarchesani/assets/52390403/9857bdc8-35f2-4c36-9e8d-111a1f6e7394)
 
