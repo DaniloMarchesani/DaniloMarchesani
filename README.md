@@ -8,11 +8,11 @@
 
 
 ## :technologist: About me
-I'm a Software Engineer with 3 years of experience, specializing in React and Node.js. I have a solid foundation in OOP, design patterns, HTML/CSS, Tailwind CSS, JavaScript/TypeScript, React JS, Node JS/Express, Java, Spring Boot, and relational databases.
+I'm a Software Engineer with 3 years of experience, searching always for something new and fun to learn. I have a solid foundation in OOP, design patterns, HTML/CSS, Tailwind CSS, JavaScript/TypeScript, React JS, Node JS/Express, Java, Spring Boot, and relational databases.
 
-I've worked on various projects, including developing and deploying applications and handling bug fixes. My experience also includes working in international teams, contributing to diverse projects primarily using React technology.
+I've worked on various projects, including developing and deploying applications and handling bug fixes. My experience also includes working in international teams, contributing to diverse projects improving  performance and usability of the product.
 
-I possess strong problem-solving and teamwork skills and have self-studied additional frontend technologies like Styled Components, state management systems, and SSR development with Next.js.
+I possess problem-solving and teamwork skills and have self-studied additional frontend technologies like Styled Components, state management systems, and SSR development with Next.js.
 
 
 ## 🛠 Tech Stack and Tools
@@ -25,8 +25,6 @@ I possess strong problem-solving and teamwork skills and have self-studied addit
 <img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
 
@@ -35,7 +33,7 @@ I possess strong problem-solving and teamwork skills and have self-studied addit
 <br />
 
  🔭 I’m currently working on ...ask me about it 😉 <br />
- 🌱 I’m currently learning NextJs <br />
+ 💎 I’m currently learning Ruby <br />
  👯 I’m looking to collaborate on various projects based on Js frameworks and Nodejs <br />
  📫 How to reach me: marchesanidanilo@gmail.com <br />
 
